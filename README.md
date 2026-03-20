@@ -8,16 +8,16 @@ For me, data analytics isn’t just about charts or queries. It’s about **givi
 Early in my career, I saw how teams struggled with uncertainty: unclear trade-offs, conflicting opinions, and decisions based solely on gut feelings. That’s why I chose data analytics. I help teams make informed decisions — because **uncertainty shouldn’t be a part of the job**.
 
 #### Languages and tools:
-⛁ **SQL** (joins, CTE, window functions, aggregations)
-🐍 **Python** (pandas, Numpy, Matplotlib, Seaborn, SciPy, statsmodels)
-🦫 **DBeaver**
-🗒 **Jupyter Notebook**
-📊 **BI Tools** (Yandex DataLens, Tableau)
-🗂 **Git**
+- ⛁ **SQL** (joins, CTE, window functions, aggregations)
+- 🐍 **Python** (pandas, Numpy, Matplotlib, Seaborn, SciPy, statsmodels)
+- 🦫 **DBeaver**
+- 🗒 **Jupyter Notebook**
+- 📊 **BI Tools** (Yandex DataLens, Tableau)
+- 🗂 **Git**
 
 #### How to reach me:
-📬 anastasiia.a.boiarskikh@gmail.com
-⌯⌲ https://t.me/anastasiia_boiarskikh
+- 📬 anastasiia.a.boiarskikh@gmail.com
+- ⌯⌲ https://t.me/anastasiia_boiarskikh
 
 #### Growth:
 🌱 I'm currently working on a pet project in People Analytics
