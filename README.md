@@ -21,7 +21,7 @@ Early in my career, I saw how teams struggled with uncertainty: unclear trade-of
 
 #### Growth:
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 I'm currently working on a pet project in People Analytics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;📈 I'm currently working on a test task in High-Frequency Trading data analysis
+&nbsp;&nbsp;&nbsp;&nbsp;📈 I'm currently working on a test task in Marketing Analytics: to recreate a professional marketing dashboard and communicate insights. BI tool of choice — Tableau.
 <!--
 **anastasiia-a-boiarskikh/anastasiia-a-boiarskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
